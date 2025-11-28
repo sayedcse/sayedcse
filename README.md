@@ -51,6 +51,15 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedcse&layout=compact&theme=react&hide_border=true&langs_count=6" />
 </p>
 
+<p align="center">
+  <!-- Fallback badge and link when GitHub image proxy fails to fetch the top-langs image -->
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedcse&layout=compact&theme=react&hide_border=true&langs_count=6" target="_blank">
+    <img src="https://img.shields.io/badge/Language%20Stats-Fallback-007ACC?style=for-the-badge&logo=github" alt="Language stats (fallback)" />
+  </a>
+  <br/>
+  <small>If you see "Error fetching resource" for the image above, click the badge to open the language stats directly.</small>
+</p>
+
 ---
 
 ### 💬 Let's Connect!
@@ -62,18 +71,4 @@ Feel free to reach out for collaboration, freelance opportunities, or just to sa
 
 <!-- 
   Tip: Keep this README updated as you build new projects or learn new tech!
--->
-<!--
-**sayedcse/sayedcse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
