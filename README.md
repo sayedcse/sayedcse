@@ -47,17 +47,14 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- Overall stats (keeps using github-readme-stats) -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sayedcse&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedcse&layout=compact&theme=react&hide_border=true&langs_count=6" />
+  <!-- Local generated top languages image to avoid external service outages -->
+  <img height="160em" src="https://raw.githubusercontent.com/sayedcse/sayedcse/main/lang-stats.svg" alt="Top languages" />
 </p>
 
 <p align="center">
-  <!-- Fallback badge and link when GitHub image proxy fails to fetch the top-langs image -->
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedcse&layout=compact&theme=react&hide_border=true&langs_count=6" target="_blank">
-    <img src="https://img.shields.io/badge/Language%20Stats-Fallback-007ACC?style=for-the-badge&logo=github" alt="Language stats (fallback)" />
-  </a>
-  <br/>
-  <small>If you see "Error fetching resource" for the image above, click the badge to open the language stats directly.</small>
+  <small>If the lang-stats image is missing, the language generator workflow hasn't run yet — go to Actions and run "Generate Language Stats", or wait for the scheduled run.</small>
 </p>
 
 ---
