@@ -3,11 +3,11 @@
   👋 Hi! This is the README for https://github.com/sayedcse
   It appears on your GitHub profile at https://github.com/sayedcse
 -->
+<img align="right" src="assets/80030.png" alt="Sayed" width="350" style="border-radius:8px;">
 
-<h1 align="center">Hi 👋, I'm Saidur Rahman Sayeed</h1>
-<h3 align="center">Front-End Developer & CSE Graduate from Sylhet, Bangladesh</h3>
-
-<p align="center">
+### Hi 👋, I'm Saidur Sayeed
+<h5>Front-End Developer & CSE Graduate from Sylhet, Bangladesh</h5>
+<p align="left">
   <a href="https://sayedcse.github.io/me" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
@@ -19,8 +19,6 @@
   </a>
 </p>
 
----
-
 ### 🛠️ Tech Stack
 
 - **Languages**: HTML5, CSS3, JavaScript, Python, SQL  
@@ -29,8 +27,8 @@
 - **Tools**: Git, GitHub, Figma, Adobe XD  
 - **Methodologies**: BEM CSS Architecture
 
----
 
+<!--
 ### 🌟 Featured Projects
 
 #### 🧭 [Natours](https://github.com/sayedcse/natours)
@@ -42,21 +40,24 @@
 #### 💱 [Exchange Rate Converter](https://github.com/sayedcse/exchange-rate-converter)
 > Fetches live currency exchange rates via external API and displays conversions in real time.
 
+-->
 ---
-
+<!--
 ### 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats-ten-tau-30.vercel.app/api?username=sayedcse&show_icons=true&theme=radical&)
-![Top Languages](https://github-readme-stats-ten-tau-30.vercel.app/api/top-langs/?username=sayedcse&layout=compact&langs_count=6&theme=github_dark)
-
----
-
+-->
 ### 💬 Let's Connect!
-
 Feel free to reach out for collaboration, freelance opportunities, or just to say hi!  
 📫 **Email**: saidursayed1@gmail.com  
 📱 **Phone**: +8801670-100355  
 🌐 **Portfolio**: [sayedcse.github.io/me](https://sayedcse.github.io/me)
+
+<div align="center" >
+<img src="https://github-readme-stats-ten-tau-30.vercel.app/api/top-langs/?username=sayedcse&layout=compact&langs_count=6&hide_border=true&theme=dracula" width="350px">
+<!-- ![Anurag's GitHub stats](https://github-readme-stats-ten-tau-30.vercel.app/api?username=sayedcse&show_icons=true&theme=radical&) -->
+<!-- ![Top Languages](https://github-readme-stats-ten-tau-30.vercel.app/api/top-langs/?username=sayedcse&layout=compact&langs_count=6&theme=github_dark)
+-->
+</div>
+
 
 <!-- 
   Tip: Keep this README updated as you build new projects or learn new tech!
