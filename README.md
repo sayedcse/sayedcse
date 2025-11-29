@@ -46,7 +46,8 @@
 
 ### 📊 GitHub Stats
 
-![Top Languages](https://github.com/sayedcse/sayedcse/blob/master/top-langs.svg)
+![Anurag's GitHub stats](https://github-readme-stats-ten-tau-30.vercel.app/api?username=sayedcse&show_icons=true&theme=radical&)
+![Top Languages](https://github-readme-stats-ten-tau-30.vercel.app/api/top-langs/?username=sayedcse&layout=compact&langs_count=6&theme=github_dark)
 
 ---
 
