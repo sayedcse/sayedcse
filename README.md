@@ -46,16 +46,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <!-- Overall stats (keeps using github-readme-stats) -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sayedcse&show_icons=true&theme=react&hide_border=true&count_private=true" />
-  <!-- Local generated top languages image to avoid external service outages -->
-  <img height="160em" src="https://raw.githubusercontent.com/sayedcse/sayedcse/main/lang-stats.svg" alt="Top languages" />
-</p>
-
-<p align="center">
-  <small>If the lang-stats image is missing, the language generator workflow hasn't run yet — go to Actions and run "Generate Language Stats", or wait for the scheduled run.</small>
-</p>
+![Top Languages](https://github.com/sayedcse/sayedcse/blob/master/top-langs.svg)
 
 ---
 
