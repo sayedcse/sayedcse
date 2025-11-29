@@ -45,20 +45,23 @@
 <!--
 ### 📊 GitHub Stats
 -->
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+<div style="flex: 1;">
+
 ### 💬 Let's Connect!
 Feel free to reach out for collaboration, freelance opportunities, or just to say hi!  
 📫 **Email**: saidursayed1@gmail.com  
 📱 **Phone**: +8801670-100355  
 🌐 **Portfolio**: [sayedcse.github.io/me](https://sayedcse.github.io/me)
 
-<div align="center" >
+</div>
+
+<div  style="flex: 1;" >
 <img src="https://github-readme-stats-ten-tau-30.vercel.app/api/top-langs/?username=sayedcse&layout=compact&langs_count=6&hide_border=true&theme=dracula" width="350px">
 <!-- ![Anurag's GitHub stats](https://github-readme-stats-ten-tau-30.vercel.app/api?username=sayedcse&show_icons=true&theme=radical&) -->
 <!-- ![Top Languages](https://github-readme-stats-ten-tau-30.vercel.app/api/top-langs/?username=sayedcse&layout=compact&langs_count=6&theme=github_dark)
 -->
 </div>
+</div>
 
 
-<!-- 
-  Tip: Keep this README updated as you build new projects or learn new tech!
--->
