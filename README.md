@@ -53,6 +53,6 @@
 Feel free to reach out for collaboration, freelance opportunities, or just to say hi!  
 📫 **Email**: saidursayed1@gmail.com  
 📱 **Phone**: +8801670-100355  
-🌐 **Portfolio**: https://sayedcse.github.io/me
+🌐 **Portfolio**: https://sayedcse.github.io
 </p>
 
