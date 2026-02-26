@@ -9,7 +9,7 @@
 
 <h5>Front-End Developer & CSE Graduate from Sylhet, Bangladesh</h5>
 <p align="left">
-  <a href="https://sayedcse.github.io/me" target="_blank">
+  <a href="https://sayedcse.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/saidurs" target="_blank">
@@ -53,6 +53,6 @@
 Feel free to reach out for collaboration, freelance opportunities, or just to say hi!  
 📫 **Email**: saidursayed1@gmail.com  
 📱 **Phone**: +8801670-100355  
-🌐 **Portfolio**: saidurs.pro.bd
+🌐 **Portfolio**: <a href="https://sayedcse.github.io/" target="_blank">saidurs.pro.bd<a>
 </p>
 
